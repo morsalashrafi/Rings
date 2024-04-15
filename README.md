@@ -1,1 +1,2 @@
 # 2Rings 💍💍
+React + Vite
