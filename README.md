@@ -1,1 +1,1 @@
-# 2Rings-react 💍💍
+# 2Rings 💍💍
