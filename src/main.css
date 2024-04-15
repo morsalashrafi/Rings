@@ -1,0 +1,27 @@
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    list-style-type: none;
+}
+
+body {
+    color: #666666;
+    font-size: 14px;
+    font-family: "Oswald", sans-serif;
+    line-height: 1.80857;
+    font-weight: normal;
+    background: #fff;
+}
+
+h1 {
+    font-size: 24px;
+    font-family: 'Poppins', sans-serif;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
